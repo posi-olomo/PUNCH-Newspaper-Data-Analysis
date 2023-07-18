@@ -57,7 +57,7 @@ positive score = number of positive words in the article
 negative score = number of negative words in the article
 
 <p align='center'>
-<img [Screenshot (611)] src = 'https://github.com/posi-olomo/The-Punch-Data-Analysis/assets/75603128/68eb04b0-455f-4446-ad68-b9b906ddab20'>
+<img [Screenshot (611)] src = 'https://github.com/posi-olomo/The-Punch-Data-Analysis/assets/75603128/68eb04b0-455f-4446-ad68-b9b906ddab20' width = 70%>
 </p>
 
 Although both Sport and Business articles are close, **Sport articles have the highest positive emotion** unlike that of Metro Plus which has the lowest polarity score of -0.485. This is not surprising since Metro Plus articles are articles surrounding natural disasters and criminal activities.
